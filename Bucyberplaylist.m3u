@@ -1,14 +1,7 @@
 
-
-
-
-
 #EXTM3U
-
 #EXTINF:-1 tvg-id="socolive" tvg-name="SOCO LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCLRCmhQjioE0WUEJZLySp4eiXUeCjhD-vuIWXz5hvxba4bgy0i2vSZu7_qJyJzmGgV1lthSQw-F1oKl6Cw6I7O9RMp6Kan7FQJIwMvf0dCc4kumE26wkW4LZyDzTapXD5r20xMvqSOSQCjhdeE7YXvkeoKBtS47AKMA2USjweH6PfK_foX34TlAjoXIc/s320/843744.png" group-title="Sports",SOCO LIVE
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780796600-0-0-c0d59e2f5770ad19a8b8a619a309b6cb
-#EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="Bangla",BTV CTG
 https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779283747&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9bca925fbdfe526b29d41ab7802348ec
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Bangla",Channel I
