@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Bangla",Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-id="beinsports1" tvg-name="beIN Sports 1" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports",beIN Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="sspts1" tvg-name="SS Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKh1x00NbVbjmzYzsWn0zBlM570uMhRqFQV7Lifjvo_OR5Ssjgn4Yo29Ms5ZgHabQDQyqyWToAmdUce_z3DJV9L5fOsS2SU-stxiSb4kwSB1zBoSI3ESG7iv5dAWrS1_7akA7W3MnTjjpr8iQLxKRTbxlZewlFq4g0vE27GeurbigvUxVXDkiHTCKAsbM/s320/844107.jpg" group-title="Sports",SS Sports 1
