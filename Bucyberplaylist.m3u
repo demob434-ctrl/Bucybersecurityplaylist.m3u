@@ -413,68 +413,47 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTM3U
 
-#EXTINF:-1,Fox Sports 2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8
+#EXTM3U
 
-#EXTINF:-1,beIN Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1, Fox HD
+http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1,beIN Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1, Tapmad
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 
-#EXTINF:-1,beIN Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1, TV Azteca
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1,TNT Sports 1
-http://27.124.71.27/TNT_Sports_1/index.m3u8
+#EXTINF:-1, TUDN
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
-#EXTINF:-1,TNT Sports 2
-http://27.124.71.27/TNT_Sports_2/index.m3u8
+#EXTINF:-1, TYC Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1,TNT Sports 3
-http://27.124.71.27/TNT_Sports_3/index.m3u8
+#EXTINF:-1, D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1,TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, TVP
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-#EXTINF:-1,Cricbuzz HD
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1, DAZN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1,Willow HD
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1, beIN Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1,Euro Sports
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1, Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1,Star Sports 1
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1, Somoy TV
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1P
 
-#EXTINF:-1,Sony Sports 1
-https://ashtv.com.bd/server/channels/sony_ten_sports_1_hd.m3u8
+#EXTINF:-1, PTV
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Sony Sports 2
-https://ashtv.com.bd/server/channels/sony_ten_sports_2_hd.m3u8
+#EXTINF:-1, T Sports
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/4.m3u8
+#EXTINF:-1, Zee Bangla Shonar
+http://203.18.159.180/t.me/BDIX_Bypass_josh_Rambo_live1sdfddjgjj/index.m3u8
 
-#EXTINF:-1,beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1,ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
-
-#EXTINF:-1,Ten Cricket
-https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,A Sports
-https://tvsen6.aynaott.com/asports/index.m3u8
-
-#EXTINF:-1,TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
-
-#EXTINF:-1,TSN 2
-https://tvsen7.aynaott.com/tsn2/index.m3u8
-
-#EXTINF:-1,TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8
