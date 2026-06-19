@@ -52,7 +52,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-http://103.23.206.189/tsportshd/video.m3u8
+https://mflixott.com/tv/dd/live.php?id=270&cid=270
 #EXTINF:-1 tvg-id="ZeeBangla" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Bangla",Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-id="beinsports1" tvg-name="beIN Sports 1" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports",beIN Sports 1
